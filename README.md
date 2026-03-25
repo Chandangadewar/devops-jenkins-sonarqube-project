@@ -231,6 +231,15 @@ sudo docker run -d -p 9000:9000 sonarqube:10.6-community
 * Integrate monitoring (Prometheus/Grafana)
 * Automate deployment after Quality Gate
 
+
+## 📸 Screenshots
+
+### Jenkins Pipeline
+![Jenkins](jenkins-succes-ui.png)
+
+### SonarQube Dashboard
+![SonarQube](sonarqube-dashboard.png)
+
 ---
 
 ## 👨‍💻 Author
